@@ -1,2 +1,3 @@
-# odin-resturant
-Assigned project from the odin project curriculum 
+# odin-restaurant
+
+Assigned project from the odin project curriculum
